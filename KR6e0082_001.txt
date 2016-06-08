@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:59.909617
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:40
 #+TITLE: 華嚴一乘十玄門
 #+PROPERTY: CBETA_ID T45n1868
 #+PROPERTY: ID KR6e0082
